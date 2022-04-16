@@ -15,5 +15,6 @@ public class test {
         System.out.println("master 4.1");
         System.out.println("hotfix 5.1");
         System.out.println("hotfix 6.1");
+        System.out.println("hotfix 7.1");
     }
 }
