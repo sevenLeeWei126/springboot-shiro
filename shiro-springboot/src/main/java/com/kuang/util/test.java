@@ -11,6 +11,6 @@ public class test {
         System.out.println("hello git3");
         System.out.println("hello git4");
         System.out.println("master setup1");
-        System.out.println("master 3.1");
+        System.out.println("hotfix 3");
     }
 }
